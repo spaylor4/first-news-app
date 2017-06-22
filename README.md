@@ -1,0 +1,1 @@
+My news app following guide: http://first-news-app.readthedocs.io/en/latest/
